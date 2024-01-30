@@ -1,0 +1,22 @@
+{
+  "name": "buny-gmx",
+  "version": "1.0.0",
+  "description": "gmx functions avalanche",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@colors/colors": "^1.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "figlet": "^1.7.0",
+    "googleapis": "95.0.0",
+    "image-to-ascii": "^3.2.0",
+    "terminal-kit": "^3.0.1",
+    "ws": "^8.16.0"
+  }
+}
